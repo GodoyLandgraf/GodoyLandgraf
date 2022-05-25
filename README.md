@@ -1,6 +1,6 @@
 ### Hello, Matheus Landgraf here!!😎😎
 
---> 🔭 I'm Working with QA
+--> 🔭 I'm working with QA
 
 --> 🌱 I'm studying Java Hibernate/SpringBoot.
 
