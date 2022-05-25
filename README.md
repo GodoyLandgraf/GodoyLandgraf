@@ -1,10 +1,10 @@
-### Olá, Matheus Landgraf aqui!!😎😎
+### Hello, Matheus Landgraf here!!😎😎
 
---> 🔭 Hoje eu trabalho como QA
+--> 🔭 I'm Working with QA
 
---> 🌱 Estou estudando Java Hibernate/SpringBoot.
+--> 🌱 I'm studying Java Hibernate/SpringBoot.
 
---> 💬 Contate-me no email: matheus_godoyland@hotmail.com
+--> 💬 Contact me : matheus_godoyland@hotmail.com
 
 <div align="center">
   <a href="https://github.com/GodoyLandgraf">
