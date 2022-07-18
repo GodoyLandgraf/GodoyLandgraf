@@ -2,7 +2,7 @@
 
 --> 🔭 I'm working with QA
 
---> 🌱 I'm studying Java Hibernate/SpringBoot.
+--> 🌱 I'm studying Java/SpringBoot.
 
 --> 💬 Contact me : matheus_godoyland@hotmail.com
 
